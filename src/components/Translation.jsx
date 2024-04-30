@@ -6,4 +6,4 @@ const Translation = () => {
   )
 }
 
-export default Translation
+export default Translation 
